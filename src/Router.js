@@ -17,6 +17,8 @@ import SplashComponent from './component/SplashComponent';
 import AffirimationComponent from './component/AffirimationComponent';
 import AffirimationItemComponent from './component/AffirimationItemComponent';
 import ImageTextMusicComponent from './component/ImageTextMusicComponent';
+import MyNotes from './component/MyNotes';
+import AddNotes from './component/AddNotes';
 export default function Router() {
     const Stack = createStackNavigator();//headerMode='none'
     const Drawer = createDrawerNavigator();
@@ -52,8 +54,10 @@ export default function Router() {
                 <Stack.Screen name = "Affirimation" component ={AffirimationComponent} options = {{title:"Affirimation"}}/>
                 <Stack.Screen name = "AffirimationItem" component ={AffirimationItemComponent} options = {{title:"Affirimation"}}/>
                 <Stack.Screen name = "ImageTextMusicComponent" component ={ImageTextMusicComponent} options = {{title:"Play",headerShown:false}}/>
-
+                <Stack.Screen name = "MyNotes" component ={MyNotes} options = {{title:"Notes",headerShown:true}}/>
                 
+                <Stack.Screen name = "AddNotes" component ={AddNotes} options = {{title:"",headerShown:true}}/>
+
                 {/* <Stack.Screen name="Drawer">
                <Drawer.Navigator drawerContent={props => <CustomDrawerContent {...props} />}>
                     <Drawer.Screen name="Feed" component={Dashboard} />

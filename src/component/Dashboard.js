@@ -104,7 +104,9 @@ export default class Dashboard extends Component {
             case 1:
                 this.props.navigation.navigate("Affirimation")
                 break;
-
+            case 2:
+                this.props.navigation.navigate("MyNotes")
+                break;
         }
     }
    
