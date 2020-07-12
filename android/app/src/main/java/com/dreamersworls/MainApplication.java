@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import com.johnsonsu.rnsoundplayer.RNSoundPlayerPackage;
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import com.imagepicker.ImagePickerPackage;
 import com.imagepicker.ImagePickerPackage;

@@ -14,7 +14,9 @@ import {TouchableOpacity} from 'react-native'
 import AddVision from './component/AddVision';
 import MyVision from './component/MyVision';
 import SplashComponent from './component/SplashComponent';
-
+import AffirimationComponent from './component/AffirimationComponent';
+import AffirimationItemComponent from './component/AffirimationItemComponent';
+import ImageTextMusicComponent from './component/ImageTextMusicComponent';
 export default function Router() {
     const Stack = createStackNavigator();//headerMode='none'
     const Drawer = createDrawerNavigator();
@@ -47,6 +49,11 @@ export default function Router() {
                 />
                 <Stack.Screen name = "AddVision" component ={AddVision} options = {{title:"Add Vision"}}/>
                 <Stack.Screen name = "MyVision" component ={MyVision} options = {{title:"My Vision"}}/>
+                <Stack.Screen name = "Affirimation" component ={AffirimationComponent} options = {{title:"Affirimation"}}/>
+                <Stack.Screen name = "AffirimationItem" component ={AffirimationItemComponent} options = {{title:"Affirimation"}}/>
+                <Stack.Screen name = "ImageTextMusicComponent" component ={ImageTextMusicComponent} options = {{title:"Play",headerShown:false}}/>
+
+                
                 {/* <Stack.Screen name="Drawer">
                <Drawer.Navigator drawerContent={props => <CustomDrawerContent {...props} />}>
                     <Drawer.Screen name="Feed" component={Dashboard} />

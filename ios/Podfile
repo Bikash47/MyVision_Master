@@ -83,6 +83,8 @@ target 'DreamersWorls' do
 
   pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
 
+  pod 'RNSoundPlayer', :path => '../node_modules/react-native-sound-player'
+
   target 'DreamersWorlsTests' do
     inherit! :complete
     # Pods for testing

@@ -1,0 +1,1265 @@
+[
+    {
+        "title": "Gratitude",
+        "id": 0,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I gratefully accept all the health, wealth and happiness that the universe pours into me every day."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I gratefully accept all the wealth and happiness that the Universe pours into me every day"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I am thankful for all the love in my life"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I breathe in gratitude and breathe out love"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am happy and grateful for everything I have and receive daily"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": " my life is abundant and amazing right now!"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am grateful for my health"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I see all of the beauty and grace which is around me with loving gratitude."
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am thankful for God's endless treasures."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I am thankful for all the good in my life"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am thankful for my blessings. I focus on the good things in my life thereby giving them power to grow and multiply."
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I am grateful for all that I experience in this lifetime"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am receiving abundance every day"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I am releasing the past and appreciating the present."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I appreciate all, I show my gratitude, I give thanks."
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I give thanks and choose to be happy"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I start each day with a gratitude attitude"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am very profoundly thankful for my own unique and wonderful life."
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I allow myself to be disciplined, creative and focused on my highest priority tasks; I'm grateful for these abilities."
+            }
+        ]
+    },
+    {
+        "title": "Success",
+        "id": 1,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "Wealth is pouring into my life."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "My possibilities are endless."
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "My inner vision is always clear and focused."
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "Today, I will concentrate on taking one step forward, however small"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I gratefully accept all the health, wealth and happiness that the universe pours into me every day."
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I deserve love, success and happiness"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "The Universe supports my every effort"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I am persistent in reaching my goals"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am a success in all that I do."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I can do this"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "Everything I touch returns riches to me."
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I will make effective use of my time today"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am a creative genius"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I am free of debt"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "Beyond positive thinking is positive believing."
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I am ALREADY healed, happy, loving, wealthy, successful, confident, physically and emotionally well"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "All of my dreams are coming true"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I give generously, and receive graciously"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "The Universe provides me all that I need and desire."
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I deserve the good life"
+            }
+        ]
+    },
+    {
+        "title": "Attitude",
+        "id": 2,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I will remain confident and unaffected by negative attitudes around me"
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I can accomplish anything I set my mind on"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I have the energy and passion to make my thoughts reality"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I can do this"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am a creative genius"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am grateful for each experience in my life"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am responsible for my own attitude."
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "Beyond positive thinking is positive believing."
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am ALREADY healed, happy, loving, wealthy, successful, confident, physically and emotionally well"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I am treating those I love the most with love and respect"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I deserve the good life"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I am very attractive"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am calm and confident"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "Everything I touch is a success"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "People find me interesting"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I see every opportunity that comes my way"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I am a positive person unaffected by the negative words and attitudes of others."
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am contributing something unique and wholesome to society"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I am confident and unaffected by negative attitudes around me"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I am always expecting the best for myself"
+            }
+        ]
+    },
+    {
+        "title": "Health",
+        "id": 3,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I am fit, healthy and attractive."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I possess an endless supply of creativity, energy and tolerance for any project that I assume."
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I gratefully accept all the health, wealth and happiness that the universe pours into me every day."
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I have abundant energy, vitality and well-being."
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am a lucky, happy, healthy and successful person"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am filled with energy to do all the daily activities in my life."
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I take deeper, longer, more relaxed breaths"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I will lose weight each day."
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am ALREADY healed, happy, loving, wealthy, successful, confident, physically and emotionally well"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I love and care for my body and it cares for me."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am beautiful"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "My skin is clear and radiant"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I love to exercise and feed my body healthy food"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I eat healthy and nutritious foods"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I am maintaining my ideal body weight easily and effortlessly now."
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I am now relaxed and filled with peace of mind. In my relaxed state, my body repairs and heals itself quickly."
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I am an early riser, and a deep sleeper!"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "My body is healthier and stronger everyday"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I am creating healing energy in my life"
+            }
+        ]
+    },
+    {
+        "title": "Business",
+        "id": 4,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I will remain confident and unaffected by negative attitudes around me"
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "My inner vision is always clear and focused."
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "Today, I will concentrate on taking one step forward, however small"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I focus my power. I change my life."
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am a positive resource and people want to do business with me"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I can accomplish anything I set my mind to."
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "Everything I touch is a success"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "My business is growing abundantly!"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am confident, competent and calm"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I am persistent, I persevere and I win!"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am organized and disciplined"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "My business is successfull and fun"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am successful"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I constantly have new prospects and opportunities."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "My business is growing every day"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I accomplish more in my business with each passing day"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "Opportunities come easily to me."
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am smart and business saavy"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "My business is successful."
+            },
+            {
+                "id": 19,
+                "subTitle": "I am a business genius, I am creative and make effective business choices"
+            }
+        ]
+    },
+    {
+        "title": "Exercise",
+        "id": 5,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I am confident"
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "My inner vision is always clear and focused."
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I will lose weight each day."
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I eat healthy and nutritious foods"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am maintaining my ideal body weight easily and effortlessly now."
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I eat only to fuel my body when needed"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am fit and healthy"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "Every day I get closer to my ideal weight"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "All excess fat and weight drops from my body."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "Body fat and Calories are melting off me like ice in the hot summer sun."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I feel and look great!"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I am slender and getting healthier everyday"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am always able to maintain my ideal weight."
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "Everything I eat turns to health, beauty and love."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I love to drink water."
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "My metabolism is automatically adjusted to support my weight loss goal."
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I maintain a healthy weight"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I eat only when I am hungry"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I look forward to, and thoroughly enjoy exercising."
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I am losing weight, and it feels wonderful."
+            }
+        ]
+    },
+    {
+        "title": "Love",
+        "id": 5,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I radiate love and happiness."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I am worthy of love."
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I deserve love, success and happiness"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I love myself for who I am."
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I love myself and I am in charge of my own happiness"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am worthy of great love"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am surrounded with loving, caring people in my life."
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I am a success in all that I do."
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I will create a home full of joy and peace."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "The more I love, the more that love is returned to me."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I take care of myself by eating and sleeping properly"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I am ALREADY healed, happy, loving, wealthy, successful, confident, physically and emotionally well"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am worthy of great love and I deserve to be loved fully and completely."
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "My relationship is filled with love, passion, understanding and fun"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I love and care for my body and it cares for me."
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "The Universe provides me all that I need and desire."
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I deserve to be loved fully and completely"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am treating those I love the most with love and respect"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I love money and money loves me"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I am now in an ideal relationship with my perfect partner"
+            }
+        ]
+    },
+    {
+        "title": "Relationship",
+        "id": 6,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "My relationship is filled with love, passion, understanding and fun"
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I deserve to be loved fully and completely"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I am treating those I love the most with love and respect"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I am now in an ideal relationship with my perfect partner"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I am in a loving and passionate relationship"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am all that I allow myself to be"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am love, loved and loving."
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I accept people as they are."
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I allow love to find me"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I can and do what I put my mind, heart and soul into therefore I am"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "My relationship is strong, filled with love and trust"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I attract whatever I desire"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I release any desperation and allow love to find me; I attract only healthy relationships"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "i am in a beautiful relationship with a person who truly loves me"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I am enthusiastic"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I release the pain of my unpleasant experiences in love"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I am a good friend; I deserve good friends"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am an attractive, happy person"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "my perfect love partner and I are together in mind, body, and spirit"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I touch others with a soft, kindhearted smile."
+            }
+        ]
+    },
+    {
+        "title": "Family",
+        "id": 7,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I will create a home full of joy and peace."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "My skin is clear and radiant"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I am blessed with a beautiful well balanced family"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I am loved and lovable"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I successfully plan and provide for my children's future"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I know how to communicate with my children."
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I nurture my own blessed family and friends with love and kindness, patience and goodwill."
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "My family and friends value and respect me"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am open and affectionate."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "My home is always filled with joy, peace, and love."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am God's beloved child Jn 1.12 Eph 1.5"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I have a happy, extended family filled with health and love"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I will be the change I want to see in this world."
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I look forward to time with my children."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I have a great family"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I am a good mother and wife"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I treat my parents with love and affection."
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am a source of love and inspiration for my family and friends"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "My family is healthy, happy, and full of love!"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "My children are a beautiful reflection of God's love."
+            }
+        ]
+    },
+    {
+        "title": "Goals ",
+        "id": 8,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I am persistent in reaching my goals"
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I take care of myself by eating and sleeping properly"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I can accomplish anything I set my mind to."
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I am committed to my goals and my success is assured"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I have all the energy I need to accomplish my goals and to fulfill my desires"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "Every day, I make at least one step that takes me closer to my goals."
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I focus easily on my key tasks"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "I achieve my goals"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I am achieving all of my dreams"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I will press on until the goal is reached."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am loved by all, I am successful, I achieve goals regularly, I am in a loving relationship with a spiritually minded partner. I achieve 1st place ranking in all of my subjects"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I press on until the goal is reached."
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I will practice meditation every day!"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I FOCUS completely on what I am doing, and I am happiest when meeting and exceeding PERSONAL GOALS."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I'm no longer afraid to use the power within me to achieve my goals"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "I attract success & prosperity with all my ideas"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "I will concentrate on my key priority today."
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I will be more ORGANIZED, but less anxious on a daily basis, breathing deeply, easily and naturally."
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I will focus on my key priority today"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I achieve everything I set out to do"
+            }
+        ]
+    },
+    {
+        "title": "Happiness ",
+        "id": 9,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "I gratefully accept all the health, wealth and happiness that the universe pours into me every day."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I deserve love, success and happiness"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I love myself and I am in charge of my own happiness"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "I am worthy of great love"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "My income is constantly increasing"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am ALREADY healed, happy, loving, wealthy, successful, confident, physically and emotionally well"
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am worthy of great love and I deserve to be loved fully and completely."
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "All of my dreams are coming true"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "I deserve to be loved fully and completely"
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "I gratefully accept all the wealth and happiness that the Universe pours into me every day"
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I am at peace with myself"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I deserve to be happy"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I am Love, I am abundance, I am joy"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "I am an early riser, and a deep sleeper!"
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "I am in love with a man who is in love with me"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "Every atom of my being is resonating with joy and happiness now."
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "The universe provides for my every want and need"
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am happy and grateful for everything I have and receive daily"
+            }
+        ]
+    },
+    {
+        "title": "Money",
+        "id": 10,
+        "checked": false,
+        "subAff": [
+            {
+                "subChecked": false,
+                "id": 0,
+                "subTitle": "Wealth is pouring into my life."
+            },
+            {
+                "subChecked": false,
+                "id": 1,
+                "subTitle": "I am a money magnet!"
+            },
+            {
+                "subChecked": false,
+                "id": 2,
+                "subTitle": "I am free of debt"
+            },
+            {
+                "subChecked": false,
+                "id": 3,
+                "subTitle": "My income is constantly increasing"
+            },
+            {
+                "subChecked": false,
+                "id": 4,
+                "subTitle": "I have more than enough money to fulfill all of my needs and desires"
+            },
+            {
+                "subChecked": false,
+                "id": 5,
+                "subTitle": "I am prosperous, money flows to me from many sources."
+            },
+            {
+                "subChecked": false,
+                "id": 6,
+                "subTitle": "I am wealthy"
+            },
+            {
+                "subChecked": false,
+                "id": 7,
+                "subTitle": "Unexpected income flows to me"
+            },
+            {
+                "subChecked": false,
+                "id": 8,
+                "subTitle": "All of the money I could ever want is flowing to me now."
+            },
+            {
+                "subChecked": false,
+                "id": 9,
+                "subTitle": "People love to give me money."
+            },
+            {
+                "subChecked": false,
+                "id": 10,
+                "subTitle": "I love money and money loves me"
+            },
+            {
+                "subChecked": false,
+                "id": 11,
+                "subTitle": "I am prosperous"
+            },
+            {
+                "subChecked": false,
+                "id": 12,
+                "subTitle": "I always have enough money"
+            },
+            {
+                "subChecked": false,
+                "id": 13,
+                "subTitle": "Money flows to me easily in Avalanches of Abundance."
+            },
+            {
+                "subChecked": false,
+                "id": 14,
+                "subTitle": "Money flows to me from expected and unexpected sources"
+            },
+            {
+                "subChecked": false,
+                "id": 15,
+                "subTitle": "Money comes easily and frequently"
+            },
+            {
+                "subChecked": false,
+                "id": 16,
+                "subTitle": "My bank account grows everyday and I am grateful."
+            },
+            {
+                "subChecked": false,
+                "id": 17,
+                "subTitle": "I am now accumulating large sums of money"
+            },
+            {
+                "subChecked": false,
+                "id": 18,
+                "subTitle": "I always have plenty of money"
+            },
+            {
+                "subChecked": false,
+                "id": 19,
+                "subTitle": "I am a money magnet."
+            }
+        ]
+    }
+]

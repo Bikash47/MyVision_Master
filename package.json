@@ -21,15 +21,18 @@
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-image-picker": "^2.3.1",
+    "react-native-image-slider": "^2.0.3",
     "react-native-reanimated": "^1.8.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.7.0",
+    "react-native-sound-player": "^0.10.4",
     "react-native-splash-screen": "^3.2.0",
     "react-native-ui-xg": "0.0.6",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5",
     "redux-persist": "^6.0.0",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "text-slider": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.9.0",

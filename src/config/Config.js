@@ -48,6 +48,7 @@ export const VEHICLE_VALUE_CHANGE = "vehicle_value_change";
 export const EPAYMENT_FORM_DATA = "epayment_form_data";
 export const DISTANCE_VALUE_CHANGE = "distance_value_change";
 export const VISION_CATAGORY = "VISION_CATAGORY";
+export const AFFIRMATION_LIST = 'list_affirmation'
 
 export const VISION_DESC = "VISION_DESC";
 
