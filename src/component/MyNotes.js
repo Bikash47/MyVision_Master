@@ -27,15 +27,15 @@ class MyNotes extends Component {
         return (
             <View style={{ flex: 1, backgroundColor: '#000' }}>
                 <FlatList
-                    numColumns={2}
+                    // numColumns={2}
                     // horizontal={true}
                     extraData={this.state.isUpdated}
                     data={this.props.allNotes}
                     renderItem={({ item, index }) => {
                         return (
                             <TouchableOpacity activeOpacity={1} style={{
-                                padding: 10, alignSelf: 'baseline', marginRight: 7, marginBottom: 7, backgroundColor: "#1A1A1A", minHeight: 100, width: "49%",
-                                flexGrow: 0, borderRadius: 5, borderWidth: 0.1, borderColor: '#1A1A1A'
+                                padding: 10, alignSelf: 'center', backgroundColor: "#1A1A1A", minHeight: 100, width: "98%",
+                                flexGrow: 0, borderRadius: 5, borderWidth: 0.1, borderColor: '#1A1A1A',marginTop:5
                             }}
                                 onPress={() => this.props.navigation.navigate("AddNotes", { note: item, position:index })}
                             >

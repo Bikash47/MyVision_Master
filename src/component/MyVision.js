@@ -16,6 +16,7 @@ let cropData = {
     displaySize: { width: 100, height: 100 },
     resizeMode: 'contain' | 'cover' | 'stretch',
 };
+
 class MyVision extends Component {
 
     constructor(props) {
@@ -40,7 +41,17 @@ class MyVision extends Component {
             date: params.visionData.date
         })
     }
-
+colorTextOfCompleate (text){
+    let currentDate = new Date(todaysDate);
+    let saveDate = new Date(this.state.date);
+    if(text){
+        return "#0f0"
+    }else if(!text){
+        return "#d7f207"
+    }else if(currentDate > saveDate){
+        return "red"
+    }
+}
     render() {
         console.log("Nav data", this.props)
         const { visionCatagory } = this.props;
@@ -53,7 +64,7 @@ class MyVision extends Component {
                     <View activeOpacity={0} style={{ width: '97%', alignSelf: 'center', height: 40,  justifyContent: 'center', marginTop: 10, padding: 5 }}
                         onPress={() => this.setState({ pickerActive: true })}
                     >
-                        <Text style={{ color: '#d7f207',fontSize: 15,fontWeight:'bold',marginTop:5 }}>{this.state.isCompleated ?"Completed":"Yet To Complete"}</Text>
+                        <Text style={{ color: this.colorTextOfCompleate(this.state.isCompleated),fontSize: 15,fontWeight:'bold',marginTop:5 }}>{this.state.isCompleated ?"Completed":"Yet To Complete"}</Text>
                         <Text style={{ fontSize: 18,color:'#fff',fontWeight:'bold',marginTop:5 }}>{this.state.selectedCatagory}</Text>
                         <View style={{ position:'absolute',right:0,top:0,flexDirection:'row',alignItems:'center',justifyContent:'center' }}>
                         <Text style={{ alignSelf: 'center', fontSize: 13,color:'#fff' }}>Target On:</Text>

@@ -62,7 +62,7 @@ class DreamNotes extends Component {
                                 <View style={{ width: '100%', }}>
                                     <Text numberOfLines={1} style={{ fontSize: 19, fontWeight: 'bold' }}>{item.selectedCatagory}</Text>
                                     <Text style={{ color: '#434543', fontSize: 13 }} numberOfLines={1}>{item.visionDesc}</Text>
-                                    <Text style={{ fontSize: 8, color: '#ad2363', fontWeight: 'bold' }}>{item.date}</Text>
+                                    <Text style={{ fontSize: 10, color: '#ad2363', fontWeight: 'bold' }}>{item.date}</Text>
                                 </View>
 
                             </TouchableOpacity>

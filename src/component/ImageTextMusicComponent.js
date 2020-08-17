@@ -124,7 +124,7 @@ class ImageTextMusicComponent extends Component {
                 { cancelable: false }
             );
         }
-        this.setState({selectedList,imgInt:30000,txtItn:4000})
+        this.setState({selectedList,imgInt:30000,txtItn:6000})
     }else{
         Alert.alert(
             'Seems like you have not select Affirmation, Please select some and come back',
@@ -136,7 +136,8 @@ class ImageTextMusicComponent extends Component {
     }
     }
     render() {
-       
+        const {route} = this.props;
+       let pageType =route.params.keyType;
 
         return (
             <SafeAreaView style={{ flex: 1, }}>
@@ -147,15 +148,16 @@ class ImageTextMusicComponent extends Component {
                     images={this.state.imageList}
                     customSlide={({ index, item, style, width }) => (
                         // It's important to put style here because it's got offset inside
-                        <View key={index} style={{ flex: 1 }}>
+                        <View key={index} style={{ flex: 1,alignItems:'center',justifyContent:'center' }}>
                             <Image source={{ uri: item }} style={{
                                 width: win.width,
                                 height: "100%",
                             }} />
+                           { pageType == 0?<Text style ={{color:'#fff',position:'absolute',fontSize:25,fontWeight:'bold',textAlign: 'center'}}>{this.state.selectedList[index]}</Text>:null}
                         </View>
                     )}
                 />
-                <View style={{ position: 'absolute', height: "100%", alignSelf: 'center', alignItems: 'center', justifyContent: 'center' }}>
+                {pageType != 0 ?<View style={{ position: 'absolute', height: "100%", alignSelf: 'center', alignItems: 'center', justifyContent: 'center' }}>
                     <TextSlider
                         frequency={this.state.txtItn}
                         slideText={this.state.selectedList}
@@ -165,7 +167,7 @@ class ImageTextMusicComponent extends Component {
                     //inactiveDotStyle={inactiveDot}
                        currentIndex={0}
                     />
-                </View>
+                </View>:null}
                 <TouchableOpacity style={{ position: 'absolute', width: "100%", height: '100%' }} onPress={() => this.setState({ viewUi: !this.state.viewUi })} />
                 {this.state.viewUi ? <TouchableOpacity style={{ position: 'absolute', width: 60, height: 60, left: 10, top: 5 }} onPress={()=> this.props.navigation.goBack(null)}>
                     <Image style={{ width: 30, height: 25, position: 'absolute', top: 30, }} source={require('../image/back.png')} />

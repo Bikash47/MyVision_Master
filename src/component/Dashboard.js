@@ -6,7 +6,7 @@ import {
     ScrollView,
     StyleSheet,
     Text, TouchableOpacity,
-    View, FlatList, StatusBar, ImageBackground, TouchableNativeFeedback, Image
+    View, FlatList, StatusBar, ImageBackground, TouchableNativeFeedback, Image, BackHandler, Alert,ToastAndroid
 } from 'react-native';
 // import str from './content';
 
@@ -20,14 +20,39 @@ export default class Dashboard extends Component {
         super();
 
         this.state = {
-            scrollY: new Animated.Value(0)
+            scrollY: new Animated.Value(0),
+            appExit :0
         }
     }
     componentDidMount() {
         console.log("Route Name", this.props)
-        // alert(""+this.props.navigation.state.routeName)
+        BackHandler.addEventListener('hardwareBackPress', this.handleBackButton);
     }
-    //background={TouchableNativeFeedback.Ripple('black')}
+    componentWillUnmount() {
+        BackHandler.removeEventListener('hardwareBackPress', this.handleBackButton);
+    }
+    handleBackButton = () => {
+        // alert(JSON.stringify(this.props.navigation.isFocused()))//this.props.route.name
+       
+        if (this.props.navigation.isFocused()) {
+            // Alert.alert(
+            //     'Exit App',
+            //     'Exiting the application?', [{
+            //         text: 'Cancel',
+            //         onPress: () => console.log('Cancel Pressed'),
+            //         style: 'cancel'
+            //     }, {
+            //         text: 'OK',
+            //         onPress: () => BackHandler.exitApp()
+            //     },], {
+            //     cancelable: false
+            // }
+            // )
+            ToastAndroid.show("Press back again to exit app", ToastAndroid.SHORT);
+            this.setState({appExit:this.state.appExit +1},()=>this.state.appExit == 2?BackHandler.exitApp():console.log("Exit"))
+            return true;
+        }
+    }
     render() {
         const headerHeight = this.state.scrollY.interpolate({
             inputRange: [0, HEADER_EXPANDED_HEIGHT - HEADER_COLLAPSED_HEIGHT],
@@ -82,7 +107,7 @@ export default class Dashboard extends Component {
                                 </ImageBackground>
                             </TouchableOpacity>
                                 <TouchableOpacity style={{ width: 70, height: 70, position: 'absolute', top: 5, left: 0 }}
-                                    onPress={() => this.props.navigation.navigate("ImageTextMusicComponent",{keyType:index})}>
+                                    onPress={() => this.props.navigation.navigate("ImageTextMusicComponent", { keyType: index })}>
                                     <Image style={{ width: 70, height: 70 }} source={require("../image/play.png")} />
 
                                 </TouchableOpacity>
@@ -109,7 +134,7 @@ export default class Dashboard extends Component {
                 break;
         }
     }
-   
+
 }
 
 const styles = StyleSheet.create({
